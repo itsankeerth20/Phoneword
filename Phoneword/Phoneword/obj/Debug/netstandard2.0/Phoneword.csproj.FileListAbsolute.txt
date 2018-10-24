@@ -1,0 +1,12 @@
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csprojAssemblyReference.cache
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb

@@ -1,0 +1,8 @@
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword.iOS\obj\iPhone\Debug\optimized\
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword.iOS\obj\iPhone\Debug\Phoneword.iOS.csprojAssemblyReference.cache
+c:\users\sankeerth sangakkara\source\repos\Phoneword\Phoneword\Phoneword.iOS\obj\iPhone\Debug\Phoneword.iOS.csproj.CoreCompileInputs.cache
